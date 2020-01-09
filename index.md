@@ -10,6 +10,36 @@ region: Latin America
 auto-migrated: 1
 
 ---
+OWASP Viña del Mar
+-------------
+Owasp Viña del Mar nace en Abril 2019 como respuesta a la necesidad de evolución y desarrollo tecnológico a la región de Valparaiso, la cual comprende una de las áreas urbanas más importantes del país: la conurbación Viña del Mar. Además de ello, posee dos importantes puertos de embarque de diversos tipos de productos chilenos de exportación: Valparaíso y San Antonio. y como si fuese poco en la ciudad de Valparaíso se encuentra la sede del Poder Legislativo: el Congreso Nacional.
+
+Nuestro compromiso es aportar es compartir conocimiento y contribuir al desarrollo de la región, fomentando la utilización de OWASP con la finalidad de garantizar el software seguro, creando así nuevos espacios de integración entre la comunidad estudiantil, corporativa y gubernamental que permitan el crecimiento y el desarrollo de conocimiento.
+
+#### Participation
+The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+
+Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+
+
+#### El Equipo
+Líder: Gustavo Nieves Arreaza', Gustavo Nieves Arreaza Linkedin
+Líder: Guilermo Farias Diaz,Linkedin 
+Secretaria:Katryn Velasco', Katryn Velasco Linkedin
+Community manager: Catalina Fernanda Ahumada Oyarzun,Linkedin
+Colaborador Técnico :Julio Moreno ,Linkedin
+
+Speaking at OWASP Vina del Mar Chapter Events
+---------------------------------------
+
+#### Call For Speakers
+
+Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Vina Chapter events - please review and agree with the [OWASP Speaker Agreement](Speaker_Agreement "wikilink") and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail:
+
+Next Meeting/Event(s)
+---------------------
+
+### 
 
 
 <!-- Standard Chapter Page Template
@@ -27,18 +57,8 @@ Please change these items to indicate the actual information you wish to present
 
 {copy for this file (index.md)}
 Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
-
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
-
-## Local News
+### Local News
 - Meeting Location
 - Everyone is welcome to join us at our chapter meetings.
 
